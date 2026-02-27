@@ -24,8 +24,6 @@
 
 - ⚡ Fun fact: I work on Formula Student race cars — and I like making the electronics just as smart as the driver
 
-<br/>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarzh_varma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-adarsh-varma-chittari-8560b3208/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiadarshvarma@gmail.com) 
 
